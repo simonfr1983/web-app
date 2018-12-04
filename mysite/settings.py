@@ -26,7 +26,7 @@ SECRET_KEY = '7kw5&$_z0kmquzo)(2b$ogb19cw=ch5w2^$*^!+3u5=ddk#!68'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', 'francknomis.pythonanywhere.com']
-
+#pour afficher
 
 # Application definition
 
